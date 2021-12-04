@@ -7,8 +7,12 @@ Updated:DEC 04 2021
 ## VFX Reference Platform:
 https://vfxplatform.com/																								
 
-## Python
+## Python:
 ### Modules:
+**PySide2** https://wiki.qt.io/Qt_for_Python
+```
+pip install PySide2
+```
 **Qt.py** https://github.com/mottosso/Qt.py
 ```
 $ pip install Qt.py
