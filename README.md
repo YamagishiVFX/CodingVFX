@@ -18,11 +18,11 @@ $ pip install git+git://github.com/shotgunsoftware/python-api.git
 ```
 **ocio** https://opencolorio.org/
 
-** Fedora and RHEL**
+Fedora and RHEL:
 ```
 yum install OpenColorIO
 ```
-** OS X using Homebrew
+OS X using Homebrew:
 ```
 brew install opencolorio
 brew install opencolorio --with-python
