@@ -5,3 +5,10 @@
 
 ## VFX Reference Platform:
 https://vfxplatform.com/																								
+
+## Python
+### Modules:
+* Qt.py https://github.com/mottosso/Qt.py
+* Shotgrid Python api
+* ocio
+* Pixar USD
