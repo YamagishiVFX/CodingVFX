@@ -17,6 +17,7 @@ $ pip install Qt.py
 $ pip install git+git://github.com/shotgunsoftware/python-api.git
 ```
 **ocio** https://opencolorio.org/
+
 ** Fedora and RHEL**
 ```
 yum install OpenColorIO
