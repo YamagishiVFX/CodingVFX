@@ -9,6 +9,24 @@ https://vfxplatform.com/
 ## Python
 ### Modules:
 * Qt.py https://github.com/mottosso/Qt.py
-* Shotgrid Python api
-* ocio
-* Pixar USD
+```
+$ pip install Qt.py
+```
+* Shotgrid Python api https://developer.shotgridsoftware.com/python-api/index.html
+```
+$ pip install git+git://github.com/shotgunsoftware/python-api.git
+```
+* ocio https://opencolorio.org/
+** Fedora and RHEL**
+```
+yum install OpenColorIO
+```
+** OS X using Homebrew
+```
+brew install opencolorio
+brew install opencolorio --with-python
+```
+* Pixar USD https://graphics.pixar.com/usd/release/index.html
+```
+pip install usd-core
+```
