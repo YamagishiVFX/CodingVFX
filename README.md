@@ -8,6 +8,10 @@ Updated:DEC 04 2021
 https://vfxplatform.com/																								
 
 ## Python:
+### Code Editor
+  * VSCode
+  * PyCharm
+  * Jupyter Notebook https://jupyter.org/
 ### Modules:
 **PySide2** https://wiki.qt.io/Qt_for_Python
 ```
