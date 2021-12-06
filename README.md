@@ -21,7 +21,7 @@ pip install PySide2
 ```
 $ pip install Qt.py
 ```
-**Shotgrid Python api** https://developer.shotgridsoftware.com/python-api/index.html
+**ShotGrid Python api** https://developer.shotgridsoftware.com/python-api/index.html
 ```
 $ pip install git+git://github.com/shotgunsoftware/python-api.git
 ```
