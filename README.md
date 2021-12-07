@@ -46,3 +46,7 @@ pip install usd-core
 https://imageio.readthedocs.io/en/stable/
 
 https://github.com/imageio
+
+**openCV - Python**
+
+http://labs.eecs.tottori-u.ac.jp/sd/Member/oyamada/OpenCV/html/py_tutorials/py_tutorials.html
